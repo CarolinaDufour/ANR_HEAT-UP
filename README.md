@@ -29,9 +29,11 @@ observations in polar regions.
 - Feb. 22-27 2026: Participation to the Ocean Sciences Meeting and Feb. 28 - Mar. 1st: Participation to the Polar Heat workshop in Glasgow, UK.
 - Mar. 19th 2026: Kickoff meeting of the project.
 - Apr. 2nd 2026: Second outreach session in a primary school as part of the <a href= https://adoptafloat.com/>Adopt-a-Float program</a> to explain the formation of dense waters.
+- Jun.18-19 2026: Participation to the Polar Argo workshop in Brest.
+- Aug. 8-19 2026: Participation to the SCAR Open Science Conference in Oslo.
 
 
 **Publications**
 
 - Martin, T., Dufour, C. O., Meijers, A. J. S., and Hancock, A. M.: Opinion: status, plans and needs of Southern Ocean modelling, Ocean Sci., 22, 1429–1437, https://doi.org/10.5194/os-22-1429-2026, 2026. 
-- Spira, T., C. O. Dufour, I. Frenger, B. Richaud and Coauthors (under review): No longer polar opposites: The Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime. Essay in Bulletin of the American Meteorology Society. Open Access version: <a href = https://essopenarchive.org/doi/full/10.22541/essoar.176229943.38616843/v2>link</a>.
+- Spira, T., C. O. Dufour, I. Frenger, B. Richaud and Coauthors, 2026: No longer polar opposites: the Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime. Bull. Amer. Meteor. Soc., , BAMS-D-25-0340.1, in press. Publisher's official version: <a href = https://doi.org/10.1175/BAMS-D-25-0340.1>link</a>,  Open Access version: <a href = https://essopenarchive.org/doi/full/10.22541/essoar.176229943.38616843/v2>link</a>.
